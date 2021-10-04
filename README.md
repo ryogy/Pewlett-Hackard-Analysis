@@ -7,7 +7,7 @@ Pewlett Hackard is about to see a large portion of its senior workforce retire. 
 
 *   Upon determining the number of employees up for retirement it becomes clear that Pewlett Hackard needs to act quickly to stay competitive as a large portion of their workforce is about to retire.  The Retiring Titles table, shown below, indicates that the majority of the retiring titles are either Senior Staff or Senior Engineers.  These are the titles that should be focused on for the possible mentorship program as these roles will create the largest deficit.
 
-<img src="/Users/robertyokabaskas/Desktop/Pewlett-Hackard-Analysis/Resources/retitring_titles.png" alt="retitring_titles" style="zoom:100%;" />
+<img src="https://github.com/ryogy/Pewlett-Hackard-Analysis/blob/main/Resources/retitring_titles.png" alt="retitring_titles" style="zoom:100%;" />
 
 
 
@@ -17,7 +17,7 @@ Pewlett Hackard is about to see a large portion of its senior workforce retire. 
 
 * See Mentorship Eligibility Table Below...
 
-  ![mentorship_eligibility_count](/Users/robertyokabaskas/Desktop/Pewlett-Hackard-Analysis/Resources/mentorship_eligibility_count.png)
+  ![mentorship_eligibility_count](https://github.com/ryogy/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility_count.png)
 
   In comparison to the number of retirees there are not many senior roles that eligible for the mentorship program.  This will need to be addressed by either making more employees eligible for mentorship or with additional hiring of senior positions.
 
